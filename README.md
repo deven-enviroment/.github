@@ -14,4 +14,4 @@ Somos uma empresa de tecnologia dedicada à inovação em Automações; Mobile A
 * O branch principal (`main`) é sempre protegido e exige revisão de código.
 
 ---
-*Para informações de contato, visite nosso website. deven.com.br*
+*Para informações de contato, visite nosso website. (https://www.deven.com.br)*
